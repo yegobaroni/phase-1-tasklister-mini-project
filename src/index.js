@@ -1,4 +1,4 @@
-//document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", () => {
   // your code here
 
   const main = document.querySelector("#main-content")
@@ -29,4 +29,4 @@ taskList.addEventListener("click", function(e) {
   }
 })
 
-// });
+})
